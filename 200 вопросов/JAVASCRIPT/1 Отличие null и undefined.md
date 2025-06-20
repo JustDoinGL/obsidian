@@ -1,0 +1,2 @@
+Null является определённым значением отсутствия объекта, undefined обозначает неопределённость. Null обычно присваивается явно. Undefined не равен ничему кроме себя, но null == undefined; 
+typeof null === “object” а typeof undefined === ‘undefined’
