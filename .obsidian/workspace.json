@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 вопросов/REACT/117. Что такое Virtual DOM, зачем нужен, принцип работы, эвристический алгоритм.md",
+                "file": "Полезные ссылки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "117. Что такое Virtual DOM, зачем нужен, принцип работы, эвристический алгоритм"
+              "title": "Полезные ссылки"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 вопросов/REACT/117. Что такое Virtual DOM, зачем нужен, принцип работы, эвристический алгоритм.md",
+                "file": "Полезные ссылки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 117. Что такое Virtual DOM, зачем нужен, принцип работы, эвристический алгоритм"
+              "title": "Структура Полезные ссылки"
             }
           }
         ],
@@ -168,32 +168,32 @@
   },
   "active": "4f0d0fb80736eafd",
   "lastOpenFiles": [
-    "Полезные ссылки.md",
-    "200 вопросов/TYPESCRIPT/103 Какие знаешь Utility types – Record, Pick, Omit, Required, Partial.md",
-    "200 вопросов/TYPESCRIPT/102. Для чего нужен Typescript, плюсы и минусы.md",
-    "200 вопросов/TYPESCRIPT/101. Абстрактные классы, перегрузки функций.md",
+    "200 вопросов/Общее/189. Git merge vs rebase.md",
     "200 вопросов/TYPESCRIPT/100. Для чего нужно ключевое слово infer.md",
     "200 вопросов/TYPESCRIPT/99. Как работают декораторы.md",
-    "200 вопросов/TYPESCRIPT/98. Что делает Implements.md",
-    "200 вопросов/TYPESCRIPT/97. Mapped types для чего.md",
-    "200 вопросов/TYPESCRIPT/96. Как работает keyof  typeof.md",
-    "200 вопросов/TYPESCRIPT/95. Что такое утверждение типов.md",
-    "200 вопросов/TYPESCRIPT/94. Тип never.md",
-    "200 вопросов/TYPESCRIPT/93. Что такое TypeGuard.md",
-    "200 вопросов/TYPESCRIPT/92. Any vs unknown.md",
-    "200 вопросов/TYPESCRIPT/90. Что такое Intersection Тип пересечения.md",
-    "200 вопросов/TYPESCRIPT/89. Что такое Union.md",
-    "200 вопросов/TYPESCRIPT/88. Что такое Generics.md",
-    "200 вопросов/TYPESCRIPT/87. Отличия type от interface.md",
-    "200 вопросов/JAVASCRIPT/88. iframe.md",
-    "200 вопросов/JAVASCRIPT/87. nextTick, process.nextTick это.md",
-    "200 вопросов/JAVASCRIPT/86. Что такое Гидрация.md",
-    "200 вопросов/JAVASCRIPT/85. Что такое функции Генераторы.md",
-    "200 вопросов/JAVASCRIPT/84. Что такое Микрофронтенд, Webpack Module Federation.md",
-    "200 вопросов/JAVASCRIPT/83. зачем нужен instanceof.md",
-    "200 вопросов/JAVASCRIPT/82. requestIdleCallback что это.md",
-    "200 вопросов/JAVASCRIPT/81. requestAnimationFrame что это.md",
-    "200 вопросов/JAVASCRIPT/80. Что такое Сборщик мусора.md",
+    "200 вопросов/TYPESCRIPT/104 Conditional Types.md",
+    "Полезные ссылки.md",
+    "200 вопросов/REACT/118. Что такое React Fiber.md",
+    "200 вопросов/REACT/117. Reconcilation согласование Virtual DOM.md",
+    "200 вопросов/Общее/162. Как работает HTTP, из чего состоит HTTP запрос.md",
+    "200 вопросов/Общее/161. REST, какие есть принципы REST.md",
+    "200 вопросов/Общее/160. Какие HTTP коды статусов есть.md",
+    "200 вопросов/Общее/159. Что такое preflight запросы, http метод OPTIONS.md",
+    "200 вопросов/Общее/157. CORS как работает, зачем нужен.md",
+    "200 вопросов/Общее/158. CORS хедеры.md",
+    "200 вопросов/REACT/120. Порталы в React.md",
+    "200 вопросов/REACT/117. Что такое Virtual DOM, зачем нужен, принцип работы, эвристический алгоритм.md",
+    "200 вопросов/Общее/181. Что такое Shadow DOM.md",
+    "200 вопросов/REACT/128. Как работает useState, зачем нужен.md",
+    "200 вопросов/REACT/121. Что такое HOC, примеры хоков.md",
+    "200 вопросов/REACT/119. Зачем нужен key.md",
+    "200 вопросов/REACT/122. Redux это.md",
+    "200 вопросов/REACT/123. Flux паттерн в редух.md",
+    "200 вопросов/REACT/133. Как работает useMemo, зачем нужен.md",
+    "200 вопросов/REACT/134. Как работает useCallback, зачем нужен.md",
+    "200 вопросов/REACT/135. В каких случаях нужно использовать мемоизацию и зачем.md",
+    "200 вопросов/REACT/136. Как работает useReducer, зачем нужен.md",
+    "200 вопросов/REACT/137. Что такое JSX.md",
     "URLS",
     "Без названия.canvas",
     "Без названия",
